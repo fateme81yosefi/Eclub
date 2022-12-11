@@ -1,0 +1,27 @@
+.logo {
+  width: 50%;
+  z-index: 11;
+  position: absolute;
+}
+.contHeadLogo {
+    position: relative;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    align-items: center;
+}
+
+.circle {
+    position: absolute;
+    background-color: rgb(228, 228, 228);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+@media screen and (min-width: 700px) {
+  .logo {
+    width: 30%;
+  }
+}

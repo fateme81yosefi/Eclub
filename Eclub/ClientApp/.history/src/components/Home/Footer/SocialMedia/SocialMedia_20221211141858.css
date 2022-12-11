@@ -1,0 +1,24 @@
+.containSocial {
+  background-color: white;
+  width: 89%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 47px;
+
+
+}
+.socialMediaLogo {
+  width: 24%;
+  margin: 100 10px;
+}
+@media screen and (min-width: 700px) {
+  .containSocial {
+    width: 48%;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+
+  }
+}

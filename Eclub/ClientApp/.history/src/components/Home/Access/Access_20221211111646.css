@@ -1,0 +1,27 @@
+.ApiTop{
+    background: #2b2f3b;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1.5rem;
+    border: none;
+    border-radius: 10px;
+}
+.projButton{
+    background-color: aliceblue;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.circlieLittle{
+    background-color: #32a4bf;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.containApI{
+    width: 100%;
+}

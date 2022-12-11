@@ -1,0 +1,11 @@
+.ApiTop{
+    background: #2b2f3b;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1.5rem;
+    background: #32a4bf;
+    border: none;
+    border-radius: 10px;
+}

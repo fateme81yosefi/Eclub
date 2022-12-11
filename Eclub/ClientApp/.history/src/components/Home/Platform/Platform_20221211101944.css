@@ -1,0 +1,13 @@
+.containplatform {
+  background-color: rgb(228, 228, 228);
+  padding: 10px;
+  border-radius: 10px;
+  width: 50%;
+  text-align: right;
+}
+
+.platformText {
+  background-color: rgb(244, 244, 244);
+  padding: 10px;
+  border-radius: 10px;
+}

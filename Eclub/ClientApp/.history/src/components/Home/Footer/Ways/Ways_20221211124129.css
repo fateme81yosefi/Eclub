@@ -1,0 +1,22 @@
+.containWays{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffff;
+}
+.picMainWay{
+    background-color: transparent;
+    border: 2px solid rgb(244, 244, 244);
+}
+.picMainWay1{
+    background-color: transparent;
+
+}
+.mail{
+    width: 100%;
+}
+@media screen and (min-width: 1200px) {
+ 
+    .containWays{
+        flex-direction: row;
+    }
+}

@@ -1,0 +1,8 @@
+.logo{
+    width: 20%;
+}
+@media screen and (min-width: 700px) {
+    .containplatform {
+        width: 50%;
+      }
+  }

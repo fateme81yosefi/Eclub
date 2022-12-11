@@ -1,0 +1,14 @@
+.containWays{
+    display: flex;
+    flex-direction: column;
+    background-color: #ffff;
+}
+.picMainWay{
+    background-color: transparent;
+}
+@media screen and (min-width: 1200px) {
+ 
+    .containWays{
+        flex-direction: row;
+    }
+}

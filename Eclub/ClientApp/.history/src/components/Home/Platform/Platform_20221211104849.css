@@ -1,0 +1,31 @@
+.containplatform {
+  background-color: rgb(228, 228, 228);
+  padding: 1rem;
+  border-radius: 10px;
+  width: 90%;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+}
+
+.platformText {
+  background-color: rgb(244, 244, 244);
+  padding: 1rem;
+  border-radius: 10px;
+  text-align: justify;
+}
+.dastresi {
+  padding: 0.5rem;
+}
+.smartPlatform {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background: #71bcd8;
+}
+@media screen and (min-width: 700px) {
+  .containplatform {
+    width: 50%;
+  }
+}

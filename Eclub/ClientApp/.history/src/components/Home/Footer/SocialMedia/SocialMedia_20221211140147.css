@@ -1,0 +1,11 @@
+.containSocial {
+  background-color: white;
+  width: 89%;
+}
+@media screen and (min-width: 700px) {
+    width: 48%;
+    .containSocial {
+        background-color: white;
+        width: 89%;
+      }
+}
